@@ -1,5 +1,6 @@
 
-Image Classification with PyTorch
+Image Classification with PyTorch.
+
 This project is focused on building an image classification model using PyTorch. The goal is to classify images of dogs into three classes: affenpinscher, akita, and corgi.
 
 Project Structure
